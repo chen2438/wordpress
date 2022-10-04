@@ -1,3 +1,5 @@
+Redirect 301 /docs https://docs.chenhaotian.top
+
 # BEGIN WordPress
 # 在“BEGIN WordPress”与“END WordPress”之间的指令（行）是
 # 动态生成的，只应被WordPress过滤器修改。

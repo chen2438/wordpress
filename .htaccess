@@ -1,4 +1,5 @@
 Redirect 301 /docs https://docs.opennet.top
+Redirect 301 /301-profile-card https://chenhaotian.top/profile-card
 
 # BEGIN WordPress
 # 在“BEGIN WordPress”与“END WordPress”之间的指令（行）是
